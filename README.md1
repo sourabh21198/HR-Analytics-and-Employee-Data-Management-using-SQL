@@ -1,0 +1,31 @@
+# HR Analytics and Employee Data Management using SQL
+
+## 📌 Project Overview
+This project focuses on analyzing an HR database using SQL. It includes employee, department, and job-related data to generate meaningful insights.
+
+## 🛠 Tools Used
+- MySQL 
+- HR Sample Database
+
+## 📂 Project Structure
+- hr databse.sql → Table creation scripts
+- queries.sql → SQL queries for analysis
+
+## 🔍 Key Analysis Performed
+- Employee salary analysis
+- Department-wise employee distribution
+- Job history tracking
+- Highest and second-highest salary queries
+- Aggregate functions (SUM, AVG, COUNT)
+
+## 🚀 Key Concepts Used
+- Joins (INNER, LEFT)
+- Subqueries
+- Group By & Having
+- Aggregate Functions
+
+## 📊 Sample Insights
+- Identified top-paid employees
+- Department with highest number of employees
+- Salary trends across departments
+
